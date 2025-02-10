@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TaskList</string>
+    <string name="title">Список Задач</string>
+    <string name="taskTitle">Название задачи</string>
+    <string name="add">+</string>
+    <string name="delete">Удалить</string>
+</resources>
